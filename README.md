@@ -7,3 +7,6 @@ This notebook aims to analyze factors influencing graduate school admissions bas
 3.  **Correlation Analysis**: Examining the correlation between numerical and categorical features.
 4.  **Regression Modeling**: Building a linear regression model to predict the chance of admission.
 5.  **Clustering**: Applying K-means clustering to identify potential groups within the data.
+
+
+This Project is completely performed in R.
